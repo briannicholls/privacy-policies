@@ -43,6 +43,6 @@ If you have any questions about this Privacy Policy, please contact us at idid.h
 
 We may update this Privacy Policy to reflect changes to our information practices. If we make any material changes, we will notify you by means of a notice on this app prior to the change becoming effective.
 
-This policy is available at github.com/briannicholls/privacy-policies/idid.md and is non-editable and publicly accessible. It is readable in a standard browser with no special plugins required.
+This policy is available at [this URL](https://github.com/briannicholls/privacy-policies/blob/master/idid/privacy-policy.md#privacy-policy-for-idid) and is non-editable and publicly accessible. It is readable in a standard browser with no special plugins required.
 
 By using the iDid app, you agree to the collection and use of information in accordance with this policy.
