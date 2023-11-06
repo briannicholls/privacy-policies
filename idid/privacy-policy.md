@@ -2,6 +2,8 @@
 
 ## Effective Date: 4 Nov 2023
 
+### Last updated 6 Nov 2023
+
 This Privacy Policy describes how iDid ("we", "us", or "our") collects, uses, and shares your information when you use our iDid application.
 
 ## Transparency and Choice
@@ -10,7 +12,7 @@ We are committed to clearly disclosing the types of personal and sensitive user 
 
 ### Information We Collect:
 
-1. **Personal Information**: This may include but is not limited to, your first name, last name, and email address.
+1. **Personal Information**: First name, last name, and email address.
 2. **Log Data**: Information that your device sends related to app performance and usage.
 3. **User Content**: Data that you voluntarily provide within the app, including the activities you record using the interface.
 4. **Cookies and Similar Technologies**: We do not use cookies but use similar technologies, i.e. Asynchronous device storage for authentication.
@@ -23,13 +25,38 @@ We are committed to clearly disclosing the types of personal and sensitive user 
 
 ### Sharing Your Information:
 
-We share your information with third parties only in the ways that are described in this Privacy Policy, including:
+We may share your information with third parties in the following ways:
 
-- Legal obligations or to protect rights, property, or safety
+- **Service Providers**: We engage certain trusted third parties to perform functions and provide services to us, including, without limitation, cloud hosting, database management, analytics, and payment processing. We only share your personal data with these third parties to the extent necessary to perform these functions and provide such services.
+
+- **Legal Requirements**: We may disclose your information if required to do so by law or in the good faith belief that such action is necessary to comply with a legal obligation, protect and defend our rights or property, ensure the personal safety of users of the service, or protect against legal liability.
+
+### International Transfer:
+
+Your information, including Personal Information, may be transferred to — and maintained on — computers located outside of your state, province, country, or other governmental jurisdiction where the data protection laws may differ from those from your jurisdiction. If you are located outside the United States and choose to provide information to us, please note that we transfer the data, including Personal Information, to the United States and process it there.
+
+Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
 
 ### Data Security:
 
-We implement appropriate security measures to protect against unauthorized access or unauthorized alteration, disclosure, or destruction of data.
+We take the security of your data seriously and implement industry-standard measures to protect your information. Specifically:
+
+- **Authentication**: We use Devise, a well-established authentication solution for Rails applications, to manage user sign-ins and registrations. Devise offers robust password encryption and allows us to implement features such as account lockout after a number of failed login attempts to protect against unauthorized access.
+
+- **Encryption**: All sensitive data is encrypted using secure cryptographic methods when stored and transmitted. Our databases are configured to use encrypted connections to ensure data privacy.
+
+- **Secure Transmission**: Communication between our app and the servers is encrypted using Secure Socket Layer technology (SSL)/Transport Layer Security (TLS). This creates a protected connection where your data is securely transmitted over the internet.
+
+- **Regular Updates**: We keep our application and infrastructure updated with the latest security patches and updates.
+
+- **Monitoring**: Our systems are monitored for unauthorized access attempts and other security threats. We have incident response protocols in place to quickly address any potential breaches.
+
+- **Access Control**: We implement strict access controls to ensure that only authorized personnel can access user data for legitimate purposes such as customer support and app maintenance.
+
+We are committed to conducting regular reviews of our security practices to improve the protection of your data continuously.
+
+By using the iDid app, you acknowledge the measures we take to protect your data. If you have questions about our security practices, please contact us at [idid.helper@gmail.com](mailto:idid.helper@gmail.com).
+
 
 ### Data Retention and Deletion:
 
